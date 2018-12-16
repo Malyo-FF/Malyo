@@ -1,5 +1,5 @@
 nihaoya
 heihie
-num =100
+num =10000000
 mun = 200
 mun = 500
